@@ -1,0 +1,12 @@
+Package: GEOMASS
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Michal Karasek <karasek.mich@gmail.com>, Oleksiy Maybrodskyy <> 
+Maintainer: Michal Karasek <karasek.mich@gmail.com>
+Description: More abou what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: Oleksiy break your legs if you use it commercial license
+Encoding: UTF-8
+LazyData: true
+Built: R 3.2.3; ; 2017-06-14 21:11:57 UTC; unix

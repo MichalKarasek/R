@@ -1,0 +1,22 @@
+Angle_intersection      Calculate error model for intersection from
+                        Angles
+Elipsa                  Compute points X-Y coordinates
+Helmert_transformation
+                        Helmert transformation
+Intersection_back       Calculate error model for back intersection
+                        method.
+Length_intersection     Calculate error model of Length intersection
+Rajon                   Calculate error model of Rajon.
+Rajon_back              Calculate error model of Rajon back.
+angle_intersection_calculation
+                        Intersection from angles
+intersection_back_calculation
+                        Compute X-Y coordinates using Intersection back
+                        method
+length_intersection_calculation
+                        Compute X-Y coordinates using Length
+                        intersection method
+rajon_back_calculation
+                        Compute X-Y coordinates using Rajon back method
+rajon_calculation       Compute X-Y coordinates of determined points
+                        using Rajon method
