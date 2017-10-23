@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "1056937.030 563894.483\n1056837.030 562162.433\n1000 1012\n",
+    "created" : 1497453911463.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3253301678",
+    "id" : "3F2B6275",
+    "lastKnownWriteTime" : 1494964708,
+    "last_content_update" : 1494964708,
+    "path" : "~/GEOMASS/inst/extdata/Length_intersection_calculation.txt",
+    "project_path" : "inst/extdata/Length_intersection_calculation.txt",
+    "properties" : {
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}
