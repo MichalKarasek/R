@@ -4,9 +4,9 @@ Project was created within Student grant competition at CTU. Grant number SGS17/
 
 ### Authors
 
-*Michal Karasek
-*Oleksyi Maybrodskyy
-*Jana Noskova
+* Michal Karasek
+* Oleksyi Maybrodskyy
+* Jana Noskova
 
 ### Task
 
